@@ -1,0 +1,21 @@
+Package: miRTargetForSpecies
+Type: Package
+Title: miRTargetsForSpecies : Collection of miRNA Target Prediction Data
+       for Various Species
+Version: 0.99.1
+Author: c(person("Gulden", "Olgun", 
+           email = "gulden@cs.bilkent.edu.tr", 
+		   role = c("aut", "cre")))
+Maintainer: Gulden Olgun <gulden@cs.bilkent.edu.tr>
+Description: This is a data collection for computationally predicted miRNA 
+               targets for various species including Homo sapiens, 
+			   Mus musculus, Rattus norvegicus, Drosophila melanogaster, 
+			   Danio rerio, Caenorhabditis elegans. Other than Rattus norvegicus,
+			   we collect target predictions from TargetScan and for Rattus 
+			   norvegicus, miRmap database predictions are utilized. 
+License: MIT + file LICENSE
+Depends: R (>= 3.0) 
+Encoding: UTF-8
+LazyData: true
+BugReports: https://github.com/guldenolgun/
+RoxygenNote: 7.0.2

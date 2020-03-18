@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584504453234.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4104796319",
+    "id" : "6922F80E",
+    "lastKnownWriteTime" : 1584497562,
+    "last_content_update" : 1584497562,
+    "path" : "~/miRTargetForSpecies/inst/scripts/make-data.R",
+    "project_path" : "inst/scripts/make-data.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

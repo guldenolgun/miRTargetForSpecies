@@ -1,0 +1,9 @@
+{
+    "path" : "~/miRTargetForSpecies/inst/scripts",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
