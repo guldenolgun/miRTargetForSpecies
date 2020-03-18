@@ -2,7 +2,7 @@ Package: miRTargetForSpecies
 Type: Package
 Title: miRTargetsForSpecies : Collection of miRNA Target Prediction Data
        for Various Species
-Version: 0.99.1
+Version: 0.99.2
 Author: c(person("Gulden", "Olgun", 
            email = "gulden@cs.bilkent.edu.tr", 
 		   role = c("aut", "cre")))
@@ -14,8 +14,10 @@ Description: This is a data collection for computationally predicted miRNA
 			   we collect target predictions from TargetScan and for Rattus 
 			   norvegicus, miRmap database predictions are utilized. 
 License: MIT + file LICENSE
-Depends: R (>= 3.0) 
+Depends: R (>= 4.0) 
 Encoding: UTF-8
+biocViews: RepositoryData, OrganismData, ReproducibleResearch
 LazyData: true
-BugReports: https://github.com/guldenolgun/
+VignetteBuilder: knitr
+BugReports: https://github.com/guldenolgun/miRTargetForSpecies/issues
 RoxygenNote: 7.0.2
