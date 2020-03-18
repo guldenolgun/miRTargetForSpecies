@@ -2,8 +2,7 @@ Package: miRTargetForSpecies
 Type: Package
 Title: miRTargetsForSpecies : Collection of miRNA Target Prediction Data
        for Various Species
-- Version: 0.99.2
-+ Version: 0.99.3
+Version: 0.99.3
 Author: c(person("Gulden", "Olgun", 
            email = "gulden@cs.bilkent.edu.tr", 
 		   role = c("aut", "cre")))
